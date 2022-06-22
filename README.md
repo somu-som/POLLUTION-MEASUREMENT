@@ -14,16 +14,18 @@ Dust is a major concern in urban areas .It has been estimated that about 30 mill
 Implementation Details
 
 Create Datasets(picture of leaves)
+
   i) Summer Season (150 photos)
   ii) Rainy Season(50 photos)
   iii) Winter Season(300 photos)
 
 Coding part progress:
+
   i)Convolutional Neural Network
-   ii)Data augmentation
+  ii)Data augmentation
   iii)Pooling(maximum)
   iv)Padding
-   v)Activation layer
+  v)Activation layer
   vi)Stride
   vii)Train sequential model
   viii)Find accuracy
@@ -40,7 +42,7 @@ The following steps that we used to solve the problem are following:
 	Step 4:Use Adam optimisers for computations,and the accuracy or analysis.
 	Step 5:After Compiling the code of the built model(Sequential Model).
 	Step 6:Once the training is completed and analyzed for a fixed number of epochs,we can move ahead to the next step of evaluation and making predictions.
-  Step 7:The deployment Stage is the final Stage of the model
+  	Step 7:The deployment Stage is the final Stage of the model
 
 
 
